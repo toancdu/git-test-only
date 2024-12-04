@@ -1,0 +1,9 @@
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/toancdu/git-test-only.git
+git push origin main
+--------------------------------------------
+git checkout-- (loại bỏ modified trong git)
+--------------------------------------------
+Tạo pull request và merge code vào main.
